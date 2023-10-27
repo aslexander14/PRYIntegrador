@@ -1,0 +1,69 @@
+
+.redes{
+    display: contents;
+	justify-content: space-between;
+	align-items: rigth;
+    
+}
+.redes img{
+	padding-right: 30px;
+	width: 60px;
+	height: 30px;
+}
+.metodospago{
+    padding-top: 20px;
+    display: inline;
+	justify-content: inherit;
+	align-items: center;
+    
+}
+.metodospago img{
+	padding-right: 5px;
+	width: 60px;
+	height: 60px;
+}
+
+.info_footer{
+   margin-left: 100px;
+   padding-top: 100px;
+}
+.info_footer a{
+    padding: 5px;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+a:hover{
+    color:blue;
+}
+.redes_footer{
+    padding-left: 100px;
+    padding-top: 100px;
+
+}
+.contenidotienda{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    float: center;
+
+}
+p{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 0px;
+    color: white;
+}
+h6{
+    color: white;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    float: center;
+    height: 250px;
+    
+}
